@@ -1,0 +1,27 @@
+name: "Rememberance"
+category: Forensic
+description: |-
+  i made a time capsule when i was a kid, today is the day i open it, but i kinda forgot the pass
+
+  chall link: https://drive.google.com/drive/folders/1_j_X6jufWTmcvXsxb-FFUttqYF3gIvJ1?usp=sharing
+
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{i_made_this_chall_h_minus_5_hours_be4_wave3_starts}
+
+tags:
+  - medium
+
+state: visible
+
+version: "0.1"

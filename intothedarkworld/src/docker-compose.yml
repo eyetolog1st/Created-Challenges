@@ -1,0 +1,12 @@
+services:
+  intothedarkworld:
+    build: .
+    image: intothedarkworld
+    restart: unless-stopped
+    environment:
+      - TERM=xterm
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "34504:3456"

@@ -1,0 +1,32 @@
+name: "Bwe's Laptop"
+category: Forensic
+description: |-
+  "My Friend Bwe here is a problem setter for petir regen 2025 but he made a grave mistake on downloading shady tools on the internet, upon launching the tool, his files get encrypted one by one your task is to help him and return his files back
+
+  NOTE: i hereby state that any damage caused onto your computer is not my fault please handle with caution, also spare some storage too cause this one is a big one"
+
+  Download: https://drive.google.com/drive/folders/1fNFcvNg_ot21glQQazpx8w4jlauygj-1?usp=sharing
+
+  Password : bwesikoorrndgantengbangetsih
+
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{m4s4_ko0r_Ken4_M4lwar3_aw4kwk}
+
+tags:
+  - hard
+
+
+state: visible
+
+version: "0.1"

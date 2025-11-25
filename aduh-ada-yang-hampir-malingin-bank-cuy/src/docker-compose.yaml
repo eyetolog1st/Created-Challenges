@@ -1,0 +1,10 @@
+version: '3'
+services:
+  flashtime:
+    image: questionad1
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "13548:13548"

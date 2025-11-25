@@ -1,0 +1,28 @@
+name: "しかのこ のこ のこし たんたんしかのこ のこ のこし たんたんしかのこ のこ のこし たんたん"
+category: Forensic
+description: |-
+  i have a deer friend she's kinda like clumsy she likes to send data on public networks, one day i tried too snoop in on what shes sending could you help me uncover what shes tryna do
+  
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{awas_b4ng_ada_ng4b_sh1k44444}
+
+tags:
+  - medium
+
+files:
+ - dist/challmed.pcap
+
+state: visible
+
+version: "0.1"

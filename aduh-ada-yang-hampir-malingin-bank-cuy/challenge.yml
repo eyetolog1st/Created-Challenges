@@ -1,0 +1,41 @@
+# Required sections
+name: 'aduh ada yang hampir malingin bank cuy'
+category: Forensic
+description: |-
+   you are tasked with a job, and that is to analyze an evidence that
+   we got from a suspect of an upcoming bank heist, now your job after you 
+   analyze is to answer these questions below
+   
+   Note: everything you need is all in the chall no need to go out from it
+
+   chall download link: https://drive.google.com/file/d/1aaYdXX8HwQboK40XZy7cEgrfak6_e828/view?usp=sharing
+  
+   Author: eyes
+
+##### TIDAK USAH DIGANTI
+value: 500
+type: dynamic
+
+extra:
+    initial: 500
+    decay: 20
+    minimum: 100
+##### TIDAK USAH DIGANTI
+
+connection_info: nc 134.209.98.57 13548
+
+flags:
+    # A static case sensitive flag
+    - BeeCTF{n1ce_inv3stigative_sk1lls_sh3rl0ck}
+
+tags:
+    - hard
+
+# files:
+#     - dist/source.py
+
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: '0.1'

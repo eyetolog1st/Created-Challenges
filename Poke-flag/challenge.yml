@@ -1,0 +1,25 @@
+name: "PokeFlag"
+category: Reverse Engineering
+description: |-
+  Defeat the god of pokemon arceus to get the badge of victory called a flag
+
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{G0tt4_c4tch_em_4all}
+
+tags:
+  - medium
+
+state: visible
+
+version: "0.1"

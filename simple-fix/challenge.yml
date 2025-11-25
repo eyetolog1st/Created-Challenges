@@ -1,0 +1,28 @@
+name: "Simple-Fix :D"
+category: Forensic
+description: |-
+  bruh there is something wrong and missing about this file but i do not know what it is
+
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{W4rming_Up_F0rensics_3hh}
+
+tags:
+  - baby
+
+files:
+ - dist/chall.png
+
+state: visible
+
+version: "0.1"

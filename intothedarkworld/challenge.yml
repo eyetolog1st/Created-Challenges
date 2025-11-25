@@ -1,0 +1,36 @@
+name: "Into The Dark World"
+category: Forensics
+description: |-
+  Ralsei Bargained the roaring knight on a popular communication platform when times were tough, 
+  she had to click the link for the sake of humanity. But turns out the roaring knight fooled ralsei thus her whole world 
+  criplling down. you as a hero must stop time and investigate deep on what happened at that communication platform in order to save humanity. 
+  and answer the 7 questions of time to succesfully save the world from the roaring
+
+  Disclaimer: run all malicious files in a safe environment i hereby state that i am not responsible for any damages cause to your computer/laptop
+  <br>
+  Download link :  https://drive.google.com/drive/folders/1BEwgZu9kVvsfZZ4ALl6WQCi6-TgVVIm5?usp=sharing
+  <br>
+  Password: udfhiPfh98fw9fhrhrqjkdnajsd8293983819jwidoq0
+
+  Author: Eyes
+
+connection_info: nc 31.97.187.222 34504
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - BEECTF{r3storing_f4ith_1n_Hum4n1ty}
+
+tags:
+  - hard
+
+state: visible
+
+version: "0.1"

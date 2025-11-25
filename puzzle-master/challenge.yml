@@ -1,0 +1,30 @@
+name: "The Puzzle Master"
+category: Misc
+description: |-
+  A Poem Related to the Chall:
+
+  Below below is the key, behind behind is the answer, thou who seek the flag shall look deep, very small but important 
+
+  Author: Eyes
+
+##### DON'T CHANGE
+value: 500
+type: dynamic
+extra:
+    initial: 500
+    decay: 30
+    minimum: 100
+##### DON'T CHANGE
+
+flags:
+  - PETIR{you_truly_are_a_recovery_puzzl3_m4st3r}
+
+tags:
+  - medium
+
+files:
+ - dist/puzzle.zip
+
+state: visible
+
+version: "0.1"
